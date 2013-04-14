@@ -17,3 +17,5 @@ jpaMappingRenderer.createMappedFiles();
 
 
 This will create an orm.xml file in the target/META-INF folder for the classes in the com.test.model package.
+
+For more info, read http://www.integratingstuff.com/2013/04/15/java2jpa-automatically-create-jpa-mappings-for-a-java-domain-model/.
