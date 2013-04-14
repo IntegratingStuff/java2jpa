@@ -1,0 +1,7 @@
+/target
+/bin
+/TESTDB.properties
+/testdb.tmp
+/TESTDB.log
+/TESTDB.script
+/testdb.lck
